@@ -62,10 +62,6 @@ class DefaultDuck extends Duck{
     }
 }
 let woody:WoodenDuck = new WoodenDuck(new MuteQuack(),new NoFly());
-woody.performQuack();
 woody.performFly();
 woody.setFlyBehaviour(new FastFly());
 woody.performFly();
-let defaultDuck:DefaultDuck = new DefaultDuck(new DefaultQuack(), new DefaultFly());
-defaultDuck.performFly();
-defaultDuck.performQuack();
