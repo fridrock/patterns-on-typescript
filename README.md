@@ -108,7 +108,7 @@ woody.setFlyBehaviour(new FastFly());
 woody.performFly();
 ```
 **Вывод:**
-```json
+```text
 this duck is not flying
 //После того как выполнили woody.setFlyBehaviour(new FastFly());
 fast fly fast fly
