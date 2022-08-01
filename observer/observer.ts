@@ -1,5 +1,6 @@
 //Observer interface
 interface Subscriber{
+    name:string;
     update(state:WeatherState):void;
 }
 
