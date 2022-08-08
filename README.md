@@ -7,3 +7,4 @@
 - [Команда](https://github.com/fridrock/patterns-on-typescript/tree/master/command)
 - [Адаптер](https://github.com/fridrock/patterns-on-typescript/tree/master/adapter)
 - [Фасад](https://github.com/fridrock/patterns-on-typescript/tree/master/facade)
+- [Шаблонный метод](https://github.com/fridrock/patterns-on-typescript/tree/master/templateMethod)
